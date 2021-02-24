@@ -26,5 +26,13 @@
         "image": "viking.svg",
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        
+        "id": "5",
+        "title": "spider-man",
+        "image": "spider-man.png",
+        "description": "Spider-man sticker",
+        "price": 150
     }
 ]
